@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 24 16:46:48 2020
-
-@author: Talha Yazilim
-"""
 
 
 # -*- coding: utf-8 -*-
